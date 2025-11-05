@@ -353,7 +353,7 @@
         /* TO ADD YOUR IMAGES: Replace the background-image url() with your image paths */
         /* Example: background-image: url('assets/carpet.jpg'); */
         .flooring-item.carpet {
-            background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url('../assets/carpet.jpg');
+           background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url('../assets/carpet.jpg');
             background-size: cover;
             background-position: center;
             /* background-color: #8B7355; Fallback color until you add image */
@@ -445,4 +445,5 @@
             }
 
         }
+
 
