@@ -53,7 +53,7 @@ nav {
 
 /* Page Hero */
 .page-hero {
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url('/assets/carpet.jpg');
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url('assets/carpet.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -222,4 +222,5 @@ footer p {
         min-height: 300px;
         padding: 4rem 1rem 2rem;
     }
+
 }
